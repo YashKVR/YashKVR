@@ -1,7 +1,7 @@
 Hi 👋 My name is Yash
 =====================
 
-Blockchain Dev & Content Creator
+Full Stack Blockchain Dev & Content Creator
 --------------------------------
 
 I've been in the Web3 space since 2017, and have witnessed all the highs and lows. A strong believer in Web3 as the technology of the future.
