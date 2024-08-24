@@ -8,7 +8,7 @@ I've been in the Web3 space since 2017, and have witnessed all the highs and low
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio Website](http://yashkvr.com)
-* 🚀  I'm currently working on [FIR system on Blockchain](http://complaint-registeration-yt.vercel.app/)
+* 🚀  I'm currently working on building [Decentralized Wallet](https://github.com/YashKVR/decentralized-wallet)
 * 🧠  I'm learning Next.js and Typescript
 * 🤝  I'm open to collaborating on NFT projects and DeFi projects
 * ⚡  I got into Web3 because I am long time HODLer🧘🏻‍♂️
